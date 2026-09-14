@@ -3,4 +3,15 @@
     height: 250px;
     object-fit: cover;
     border-radius: 10px;
+     display: block;
+    margin: auto;
+}
+
+.profile img {
+    width: 300px;
+    height: 250px;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+
 }
