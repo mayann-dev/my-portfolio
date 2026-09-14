@@ -15,3 +15,17 @@
     margin: auto;
 
 }
+.profile {
+    text-align: center;
+}
+
+.profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.profile h2 {
+    margin-top: 15px;
+    color: #333;
+}
